@@ -1,6 +1,6 @@
 # News-Homepage
 
-Tools Used : 
+Tools Used :  
   • HTML  
   • SASS  
   • Javascript  
